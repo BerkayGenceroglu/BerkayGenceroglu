@@ -4,23 +4,22 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/MCMHrLVUhsBW0ZgcAD/giphy.gif" width="450" />
+      <img src="https://media.giphy.com/media/MCMHrLVUhsBW0ZgcAD/giphy.gif" width="500" />
     </td>
-    <td width="60%" valign="top">
-      <h3 align="center">🧑‍💻 Hakkımda</h3>
+    <td width="60%">
 
-      <p align="left">
-        Merhaba! Ben <strong>Berkay Genceroğlu</strong>.<br><br>
-        Üsküdar Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.<br><br>
-        Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.<br><br>
-        Şu anda özellikle <strong>.NET</strong>, <strong>C#</strong> ve <strong>Web Geliştirme</strong> konularında kendimi geliştiriyorum.<br><br>
-        Hedefim, sürdürülebilir ve ölçeklenebilir projelerle yazılım sektöründe sağlam bir yer edinmek.<br><br>
-        Takım çalışmasına yatkın, öğrenmeye açık ve çözüm odaklıyım.
-      </p>
-    </td>
+###  Hakkımda
+
+Merhaba! Ben **Berkay Genceroğlu**.  
+Üsküdar Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
+Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.  
+Şu anda özellikle **.NET**, **C#** ve **Web Geliştirme** konularında kendimi geliştiriyorum.  
+Hedefim, sürdürülebilir ve ölçeklenebilir projelerle yazılım sektöründe sağlam bir yer edinmek.  
+Takım çalışmasına yatkın, öğrenmeye açık ve çözüm odaklıyım.  
+
+   
   </tr>
-</table>
-
+</table> hakkımda yazısı düzgün olsun başlık bulunduğu alanın ortasında olusn   hakkımda yazısı düzgün olsun satır sonunda bitsin cümleler
 
 ---
 
