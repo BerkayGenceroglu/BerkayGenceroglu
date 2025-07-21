@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Berkay Genceroğlu</h1>
+<h1 align="center">Merhaba,Ben Berkay Genceroğlu</h1>
 <h3 align="center">Üsküdar Üniversitesi | Bilgisayar Mühendisliği 3. Sınıf</h3>
 
 <p align="center">
