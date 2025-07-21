@@ -18,7 +18,7 @@ Merhaba! Ben **Berkay Genceroğlu**.  Üsküdar Üniversitesi Bilgisayar Mühend
 
 ---
 
-### 🚀 Kullandığım Teknolojiler
+<h3 align="center">🚀 Kullandığım Teknolojiler</h3>
 
 <div align="center">
   
