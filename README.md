@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, Ben Berkay Genceroğlu</h1>
+<h1 align="center"> Merhaba, Ben Berkay Genceroğlu</h1>
 <h3 align="center">Üsküdar Üniversitesi | Bilgisayar Mühendisliği 3. Sınıf</h3>
 
 <table>
@@ -8,7 +8,7 @@
     </td>
     <td width="60%">
 
-### 🧑‍💻 Hakkımda
+###  Hakkımda
 
 Merhaba! Ben **Berkay Genceroğlu**.  
 Üsküdar Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
