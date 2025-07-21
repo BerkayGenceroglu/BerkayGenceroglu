@@ -48,19 +48,17 @@ Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.
 
 ## 🌐 Sosyal Medya ve İletişim
 
-## 🌐 Sosyal Medya ve İletişim
-
 <p align="left">
   <a href="https://www.linkedin.com/in/berkaygenceroglu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:berkaygenceroglu@example.com">
+  <a href="mailto:berkaygenceroglu6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/BerkayGenceroglu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/berkaygenceroglu" target="_blank">
+  <a href="https://www.instagram.com/berkay.genceroglu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
