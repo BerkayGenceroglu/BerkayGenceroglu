@@ -49,7 +49,7 @@ Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.
 ## 🌐 Sosyal Medya ve İletişim
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/berkaygenceroglu](https://www.linkedin.com/in/berkay-gencero%C4%9Flu-586b52331/)" target="_blank">
+  <a href="https://www.linkedin.com/in/berkay-gencero%C4%9Flu-586b52331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:berkaygenceroglu6@gmail.com">
