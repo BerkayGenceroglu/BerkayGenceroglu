@@ -21,6 +21,7 @@
   </tr>
 </table>
 
+
 ---
 
 ### 🚀 Kullandığım Teknolojiler
