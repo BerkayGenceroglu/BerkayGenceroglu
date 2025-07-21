@@ -3,21 +3,23 @@
 
 <table>
   <tr>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/MCMHrLVUhsBW0ZgcAD/giphy.gif" width="500" />
-    </td>
     <td width="60%">
 
-###  Hakkımda
+<h3 align="center">🧑‍💻 Hakkımda</h3>
 
-Merhaba! Ben **Berkay Genceroğlu**.  
-Üsküdar Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
-Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.  
-Şu anda özellikle **.NET**, **C#** ve **Web Geliştirme** konularında kendimi geliştiriyorum.  
-Hedefim, sürdürülebilir ve ölçeklenebilir projelerle yazılım sektöründe sağlam bir yer edinmek.  
-Takım çalışmasına yatkın, öğrenmeye açık ve çözüm odaklıyım.  
+<p align="left">
+Merhaba! Ben <strong>Berkay Genceroğlu</strong>.<br>
+Üsküdar Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.<br>
+Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.<br>
+Şu anda özellikle <strong>.NET</strong>, <strong>C#</strong> ve <strong>Web Geliştirme</strong> konularında kendimi geliştiriyorum.<br>
+Hedefim, sürdürülebilir ve ölçeklenebilir projelerle yazılım sektöründe sağlam bir yer edinmek.<br>
+Takım çalışmasına yatkın, öğrenmeye açık ve çözüm odaklıyım.
+</p>
 
-   
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/MCMHrLVUhsBW0ZgcAD/giphy.gif" width="400" />
+    </td>
   </tr>
 </table>
 
