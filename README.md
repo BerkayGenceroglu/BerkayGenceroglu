@@ -2,7 +2,7 @@
 <h3 align="center">Üsküdar Üniversitesi | Bilgisayar Mühendisliği 3. Sınıf</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🧑‍💻 Hakkımda
 
 Merhaba! Ben **Berkay Genceroğlu**.  
-Üsküdar Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
+Üsküdar Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
 Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.  
 Şu anda özellikle **.NET**, **C#** ve **Web Geliştirme** konularında kendimi geliştiriyorum.
 
@@ -27,12 +27,12 @@ Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkayGenceroglu&show_icons=true&theme=radical" height="180" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayGenceroglu&layout=compact&theme=radical" height="130" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerkayGenceroglu&theme=radical&hide_border=true" alt="streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayGenceroglu&layout=compact&theme=radical&hide_border=true" alt="top-langs" />
 </p>
 
 ---
@@ -41,18 +41,21 @@ Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.
 
 - 🔭 .NET ekosisteminde uzmanlaşmak  
 - 🌐 Full Stack projeler geliştirmek  
-- 📚 Sürekli öğrenmek ve açık kaynak projelere katkıda bulunmak  
+- 📚 Sürekli öğrenmek ve açık kaynak projelere katkı sağlamak  
 - 💼 Yazılım sektöründe sağlam bir kariyer inşa etmek  
 
 ---
 
-## 🔗 Beni Takip Et
+## 🌐 Sosyal Medya ve İletişim
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/berkaygenceroglu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:berkaygenceroglu@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/berkaygenceroglu" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:berkaygenceroglu@example.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/BerkayGenceroglu" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
