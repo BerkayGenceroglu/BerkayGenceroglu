@@ -1,8 +1,8 @@
 <h1 align="center">Merhaba, Ben Berkay Genceroğlu</h1>
 <h3 align="center">Üsküdar Üniversitesi | Bilgisayar Mühendisliği 3. Sınıf</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/MCMHrLVUhsBW0ZgcAD/giphy.gif" width="500" />
+<p>
+  <img src="https://media.giphy.com/media/MCMHrLVUhsBW0ZgcAD/giphy.gif" width="600" />
 </p>
 
 ---
