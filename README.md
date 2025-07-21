@@ -3,22 +3,20 @@
 
 <table>
   <tr>
-    <td width="60%">
-
-<h3 align="center">🧑‍💻 Hakkımda</h3>
-
-<p align="left">
-Merhaba! Ben <strong>Berkay Genceroğlu</strong>.<br>
-Üsküdar Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.<br>
-Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.<br>
-Şu anda özellikle <strong>.NET</strong>, <strong>C#</strong> ve <strong>Web Geliştirme</strong> konularında kendimi geliştiriyorum.<br>
-Hedefim, sürdürülebilir ve ölçeklenebilir projelerle yazılım sektöründe sağlam bir yer edinmek.<br>
-Takım çalışmasına yatkın, öğrenmeye açık ve çözüm odaklıyım.
-</p>
-
-    </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/MCMHrLVUhsBW0ZgcAD/giphy.gif" width="400" />
+      <img src="https://media.giphy.com/media/MCMHrLVUhsBW0ZgcAD/giphy.gif" width="450" />
+    </td>
+    <td width="60%" valign="top">
+      <h3 align="center">🧑‍💻 Hakkımda</h3>
+
+      <p align="left">
+        Merhaba! Ben <strong>Berkay Genceroğlu</strong>.<br><br>
+        Üsküdar Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.<br><br>
+        Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.<br><br>
+        Şu anda özellikle <strong>.NET</strong>, <strong>C#</strong> ve <strong>Web Geliştirme</strong> konularında kendimi geliştiriyorum.<br><br>
+        Hedefim, sürdürülebilir ve ölçeklenebilir projelerle yazılım sektöründe sağlam bir yer edinmek.<br><br>
+        Takım çalışmasına yatkın, öğrenmeye açık ve çözüm odaklıyım.
+      </p>
     </td>
   </tr>
 </table>
