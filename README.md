@@ -2,7 +2,7 @@
 <h3 align="center">Üsküdar Üniversitesi | Bilgisayar Mühendisliği 3. Sınıf Öğrencisiyim</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif" width="700" />
 </p>
 
 
