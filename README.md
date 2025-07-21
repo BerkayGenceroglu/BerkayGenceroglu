@@ -17,7 +17,7 @@ Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.
 Hedefim, sürdürülebilir ve ölçeklenebilir projelerle yazılım sektöründe sağlam bir yer edinmek.  
 Takım çalışmasına yatkın, öğrenmeye açık ve çözüm odaklıyım.  
 
-    </td>
+   
   </tr>
 </table>
 
