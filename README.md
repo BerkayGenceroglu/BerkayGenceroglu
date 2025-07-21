@@ -30,8 +30,7 @@ Merhaba! Ben **Berkay Genceroğlu**.  Üsküdar Üniversitesi Bilgisayar Mühend
 </div>
 
 ---
-
-### 📊 GitHub İstatistikleri
+<h3 align="center">📊 GitHub İstatistikleri</h3>
 
 <div align="center">
 
@@ -45,8 +44,8 @@ Merhaba! Ben **Berkay Genceroğlu**.  Üsküdar Üniversitesi Bilgisayar Mühend
 </div>
 
 ---
+<h3 align="center">🎯 Hedeflerim</h3>
 
-### 🎯 Hedeflerim
 
 - 🚀 .NET ekosisteminde uzmanlaşmak  
 - 💡 Gerçek dünya problemlerini çözebilecek projeler geliştirmek  
@@ -55,8 +54,7 @@ Merhaba! Ben **Berkay Genceroğlu**.  Üsküdar Üniversitesi Bilgisayar Mühend
 - 🤝 Açık kaynak projelere katkı sağlamak  
 
 ---
-
-### 🌐 Beni Takip Et
+<h3 align="center">🌐 Beni Takip Et</h3>
 
 <div align="center">
 
