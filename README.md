@@ -1,11 +1,12 @@
-<h1 align="center">Merhaba, Ben Berkay Genceroğlu</h1>
+<h1 align="center">👋 Merhaba, Ben Berkay Genceroğlu</h1>
 <h3 align="center">Üsküdar Üniversitesi | Bilgisayar Mühendisliği 3. Sınıf</h3>
 
-<p>
-  <img src="https://media.giphy.com/media/MCMHrLVUhsBW0ZgcAD/giphy.gif" width="600" />
-</p>
-
----
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/MCMHrLVUhsBW0ZgcAD/giphy.gif" width="300" />
+    </td>
+    <td width="60%">
 
 ### 🧑‍💻 Hakkımda
 
@@ -13,7 +14,12 @@ Merhaba! Ben **Berkay Genceroğlu**.
 Üsküdar Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
 Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.  
 Şu anda özellikle **.NET**, **C#** ve **Web Geliştirme** konularında kendimi geliştiriyorum.  
-Hedefim, sürdürülebilir ve ölçeklenebilir yazılım projeleri üretmek ve sektörde güçlü bir yer edinmek.
+Hedefim, sürdürülebilir ve ölçeklenebilir projelerle yazılım sektöründe sağlam bir yer edinmek.  
+Takım çalışmasına yatkın, öğrenmeye açık ve çözüm odaklıyım.  
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -51,7 +57,7 @@ Hedefim, sürdürülebilir ve ölçeklenebilir yazılım projeleri üretmek ve s
 - 💡 Gerçek dünya problemlerini çözebilecek projeler geliştirmek  
 - 🧠 Sürekli öğrenmeye açık kalmak  
 - 👨‍💼 Yazılım sektöründe sağlam bir kariyer oluşturmak  
-- 🤝 Açık kaynak projelere katkı sağlamak
+- 🤝 Açık kaynak projelere katkı sağlamak  
 
 ---
 
