@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Merhaba 👋, ben Berkay Genceroğlu</h1>
 <h3 align="center">Üsküdar Üniversitesi | Bilgisayar Mühendisliği 3. Sınıf</h3>
 
@@ -9,18 +7,26 @@
 
 ---
 
-🚀 Geliştirdiğim Teknolojiler:
+### 🧑‍💻 Hakkımda
 
-- 💻 .NET Core, C#, ASP.NET MVC
-- 🧠 Entity Framework, MSSQL
-- 🌐 HTML, CSS, JavaScript, TypeScript, React
-- 📦 Git, Postman, Swagger, Ajax
-- 📡 SignalR, API Tüketimi
-- 🧰 Visual Studio, Visual Studio Code
+Merhaba! Ben Berkay Genceroğlu. Üsküdar Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
+Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.  
+Kendimi özellikle **.NET**, **C#** ve **Web Geliştirme** konularında geliştiriyorum.
 
 ---
 
-📈 GitHub İstatistiklerim:
+### 🚀 Kullandığım Teknolojiler
+
+- 💻 **.NET / .NET Core**, **C#**, **ASP.NET MVC**
+- 🧠 **Entity Framework**, **MS SQL Server**
+- 🌐 **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**
+- 🔌 **SignalR**, **RESTful API** entegrasyonu
+- 🧰 **Visual Studio**, **VS Code**, **Postman**, **Swagger**
+- 🗂️ **Git**, **GitHub**, **Ajax**
+
+---
+
+### 📈 GitHub İstatistiklerim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BerkayGenceroglu&show_icons=true&theme=radical" />
@@ -30,7 +36,7 @@
 
 ---
 
-🔗 Bağlantılarım:
+### 🔗 Beni Takip Et
 
 <p align="left">
   <a href="https://www.linkedin.com/in/berkaygenceroglu" target="_blank">
@@ -43,5 +49,12 @@
 
 ---
 
-🎯 Hedefim: Kaliteli projelerle büyümek, .NET ekosisteminde uzmanlaşmak ve full stack dünyasında iz bırakmak!
+### 🎯 Hedeflerim
+
+- 🔭 .NET ekosisteminde uzmanlaşmak  
+- 🌐 Full Stack projeler geliştirmek  
+- 📚 Sürekli öğrenmek ve açık kaynak katkılar yapmak  
+- 💼 Yazılım sektöründe sağlam bir kariyer inşa etmek  
+
+---
 
