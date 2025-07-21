@@ -44,7 +44,7 @@ Merhaba! Ben **Berkay Genceroğlu**.  Üsküdar Üniversitesi Bilgisayar Mühend
 </div>
 
 ---
-<h3 align="center">🎯 Hedeflerim</h3>
+<h3 align="right">🎯 Hedeflerim</h3>
 
 
 - 🚀 .NET ekosisteminde uzmanlaşmak  
