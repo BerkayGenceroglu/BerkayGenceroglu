@@ -8,7 +8,7 @@
     </td>
     <td width="60%">
 
-<h3 align="center">🧑Hakkımda</h3>
+<h3 align="center">👤Hakkımda</h3>
 
 Merhaba! Ben **Berkay Genceroğlu**.  Üsküdar Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  Back-End ve Full Stack geliştirme alanlarına ilgi duyuyorum.  Şu anda özellikle **.NET**, **C#** ve **Web Geliştirme** konularında kendimi geliştiriyorum.  Hedefim, sürdürülebilir ve ölçeklenebilir projelerle yazılım sektöründe sağlam bir yer edinmek.  Takım çalışmasına yatkın, öğrenmeye açık ve çözüm odaklıyım.  
 
